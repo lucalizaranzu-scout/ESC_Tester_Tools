@@ -1,0 +1,9 @@
+{
+  "port": "/dev/ttyUSB0",
+  "baud": 115200,
+  "pwm": {
+    "_note": "Starter guess only (mode 0 = PWM). Replace via Advanced > Capture PWM profile using a motor set up in IQ Control Center.",
+    "esc_propeller_input_parser.mode": 0
+  },
+  "can": {}
+}
